@@ -31,7 +31,7 @@ I'm also proficient in Building Web apps.
   - Taught **Python to 260+ students**, focusing on algorithmic problem-solving and clean coding.  
   - Served as **mentor in 2 hackathons** and **judge in 1 hackathon**.
 
-- 🧩 **[LeetCode Rank: Top 15%](https://leetcode.com/u/MuhammadQasim007/)** – 400+ problems solved  
+- 🧩 **[LeetCode Rank: Top 15%](https://leetcode.com/u/MuhammadQasim007/)** – 450+ problems solved  
 
 - ☀️ **[Recipient of Solar Panel Award](https://drive.google.com/file/d/1RJtZZy4bmxIHsum4lScyPMozND_tC72V/view?usp=sharing)** from the Chief Minister of Punjab for being a **school topper**.
 
