@@ -40,6 +40,14 @@ I'm also proficient in Building Web apps.
 
 ## 🚀 Skills
 
+### 📊 Mathematics for AI/ML
+- Linear Algebra, Calculus, Statistics & Probability, Numerical Computing
+
+### 🤖 AI, Data & Automation
+- Generative AI, LLMs, RAG (Retrieval-Augmented Generation)  
+- Web Scraping & Automation using Selenium and BeautifulSoup  
+- Data Analysis using SQL, NumPy, Pandas
+
 ### 🖥️ Frontend Development
 - React, Tailwind CSS, Bootstrap, Material UI  
 - jQuery, AJAX
@@ -60,14 +68,6 @@ I'm also proficient in Building Web apps.
 ### 🔌 APIs & Integrations
 - Stripe (Payments), Cloudinary (Media Storage), Nodemailer (Email Services), Twilio (SMS)  
 - SERP API, GoHighLevel, Google Maps API
-
-### 🤖 AI, Data & Automation
-- Generative AI, LLMs, RAG (Retrieval-Augmented Generation)  
-- Web Scraping & Automation using Selenium and BeautifulSoup  
-- Data Analysis using SQL, NumPy, Pandas
-
-### 📊 Mathematics for AI/ML
-- Linear Algebra, Calculus, Statistics & Probability, Numerical Computing
 
 ---
 
