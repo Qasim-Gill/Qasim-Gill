@@ -1,20 +1,30 @@
 # Hi, I’m Muhammad Qasim 👋
 
-I’m a passionate Full-Stack Developer with a strong interest in **Web Development**. I love building production-ready applications that solve real problems, and I’m actively participating in international hackathons and self-driven projects.
+I’m a passionate **Full-Stack Developer** and **Tech Trainer** with a strong interest in **Machine Learning** and **AI-powered applications**.  
+I love building production-ready apps that solve real-world problems, mentoring aspiring developers, and participating in global hackathons.
+I'm also proficient in Building Web apps.
 
-- 👀 I’m interested in Web Development and Machine Learning.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on international hackathons.
+---
+
+## 👨‍🏫 Current Roles
+
+- **Section Leader Mentor** at [Stanford University — Code in Place](https://codeinplace.stanford.edu/)  
+- **Trainer, Mentor & Judge** at [Pak Angels](https://www.linkedin.com/company/pakangels/posts/)  
+- **Tech Trainer** at [ICodeGuru](https://www.linkedin.com/company/icode-guru/posts/)  
+- **Mentor** at [HackYeah 2025](https://2025.hackyeah.pl/bio_mentor_2025/#id=60630) — *Poland’s Biggest Hackathon*  
+- **Mentor** at [European Cybersecurity Hackathon 2025](https://cyberhubs.eu/european-cybersecurity-hackathon-2025-ready-to-take-the-challenge/) — *Organized by the European Union*
+
+---
 
 ## 🚀 Skills
 
 ### 🖥️ Web Development
-- HTML, CSS, JavaScript, Bootstrap, Material UI, Tailwind  
+- HTML, CSS, JavaScript, Bootstrap, Material UI, Tailwind CSS  
 - React, Redux Toolkit, jQuery, AJAX, PHP, Node.js, Express
 
 ### 🧠 Programming & Tools
 - Python, Flask, Selenium  
-- Git, Postman, VS Code, GitHub Actions
+- Git, GitHub Actions, Postman, VS Code
 
 ### 🗄️ Databases
 - MongoDB, MySQL, PostgreSQL, SQLite
@@ -22,25 +32,24 @@ I’m a passionate Full-Stack Developer with a strong interest in **Web Developm
 ### 🗺️ Geolocation & Mapping
 - Leaflet.js, Google Maps APIs
 
-### 💳 Integrations
-- Stripe Payments  
-- Cloudinary (media storage)  
-- Nodemailer (email services)
-- Twilio (sms service)
+### 💳 Integrations & APIs
+- Stripe (Payments)  
+- Cloudinary (Media Storage)  
+- Nodemailer (Email Service)  
+- Twilio (SMS Service)
 
 ---
 
 ## 🌱 Currently Learning
-- Data Structures and Algorithms  
-- System Design  
-- Building AI-powered apps using open-source LLMs
+- Machine Learning
+- Advanced Data Structures and Algorithms  
+- AI & LLM-based Application Development (RAG, LangChain, Vector Databases)
 
 ---
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-664613139/)
+📫 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/muhammad-qasim-664613139/) | [GitHub](https://github.com/Qasim-Gill)
 
+---
 
-<!---
-Qasim-Gill/Qasim-Gill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ *"Teaching others is the best way to master your craft — and I’m on that journey every day."*
