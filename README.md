@@ -6,13 +6,35 @@ I'm also proficient in Building Web apps.
 
 ---
 
-## 👨‍🏫 Current Roles
+## 🚀 Current Roles & Achievements
 
-- **Section Leader Mentor** at [Stanford University — Code in Place](https://codeinplace.stanford.edu/)  
-- **Trainer, Mentor & Judge** at [Pak Angels](https://www.linkedin.com/company/pakangels/posts/)  
-- **Tech Trainer** at [ICodeGuru](https://www.linkedin.com/company/icode-guru/posts/)  
-- **Mentor** at [HackYeah 2025](https://2025.hackyeah.pl/bio_mentor_2025/#id=60630) — *Poland’s Biggest Hackathon*  
-- **Mentor** at [European Cybersecurity Hackathon 2025](https://cyberhubs.eu/european-cybersecurity-hackathon-2025-ready-to-take-the-challenge/) — *Organized by the European Union*
+- 🎓 **[Section Leader (Mentor) – Stanford University’s Code in Place](https://digitalcredential.stanford.edu/check/FA458483850B4B635DD0915130CCBEBF00F195AFCBF6991EE7448725533BAAB2LzFqZHI1YU9SSmVRZFpMQjVXV0xjdkxuWktYOExkU2RBZE85SFF6YmlPZGZLZDA0)**  
+  Taught Python and mentored students 1:1 in Stanford’s global programming initiative.
+
+- 🧩 **[Harvard CS50x Puzzle Day Winner (2025)](https://www.linkedin.com/posts/muhammad-qasim-gill_cs50-harvard-puzzleday2025-activity-7316559580790972418-4B6G)**  
+  Solved 9/9 puzzles among 11,000+ global participants.
+
+- 🥇 **[1st Place Winner – Generative AI Hackathon](https://www.linkedin.com/posts/muhammad-qasim-gill_celebrating-the-top-10-hackathon-winners-activity-7304649229472309248--oea)**  
+
+- 🏆 **[Best Use of Camel AI Award – Fall in Love with DeepSeek (International Hackathon)](https://lablab.ai/event/fall-in-love-with-deepseek/shallowseekers/ai-powered-personal-finance-assistant)**  
+
+- 🧠 **[Mentor – HackYeah (Poland)](https://2025.hackyeah.pl/bio_mentor_2025/#id=60630)**  
+  Selected as mentor for Europe’s largest hackathon.
+
+- 🛡️ **[Mentor – CyberSecurity Hackathon (European Union)](https://drive.google.com/file/d/1HdK8eSl7OtU3rPIkfh5ytRqUkZE4SsNM/view?usp=sharing)**  
+
+- ⚖️ **[Judge – Generative AI Hackathon (Pak-Angels, California)](https://www.linkedin.com/company/pakangels/posts/)**  
+
+- 💡 **Educator – Data Structures, Algorithms, and Python**  
+  - Taught **DSA to 80+ learners** through workshops and live sessions.  
+  - Conducted **7-day FAANG Workshop** and multiple DSA bootcamps.  
+  - Taught **Python to 260+ students**, focusing on algorithmic problem-solving and clean coding.  
+  - Served as **mentor in 2 hackathons** and **judge in 1 hackathon**.
+
+- 🧩 **[LeetCode Rank: Top 15%](https://leetcode.com/u/MuhammadQasim007/)** – 400+ problems solved  
+
+- ☀️ **[Recipient of Solar Panel Award](https://drive.google.com/file/d/1RJtZZy4bmxIHsum4lScyPMozND_tC72V/view?usp=sharing)** from the Chief Minister of Punjab for being a **school topper**.
+
 
 ---
 
