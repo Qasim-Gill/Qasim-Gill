@@ -18,25 +18,34 @@ I'm also proficient in Building Web apps.
 
 ## 🚀 Skills
 
-### 🖥️ Web Development
-- HTML, CSS, JavaScript, Bootstrap, Material UI, Tailwind CSS  
-- React, Redux Toolkit, jQuery, AJAX, PHP, Node.js, Express
+### 🖥️ Frontend Development
+- React, Tailwind CSS, Bootstrap, Material UI  
+- jQuery, AJAX
 
-### 🧠 Programming & Tools
-- Python, Flask, Selenium  
-- Git, GitHub Actions, Postman, VS Code
+### ⚙️ Backend Development
+- Node.js, Express, PHP, Python, Flask
 
 ### 🗄️ Databases
-- MongoDB, MySQL, PostgreSQL, SQLite
+- MySQL, MongoDB, PostgreSQL, SQLite
 
-### 🗺️ Geolocation & Mapping
+### 🧰 Tools & Environments
+- VS Code, Google Colab, Jupyter Notebook, Sublime Text  
+- Git, GitHub Actions, Postman
+
+### 🌍 Geolocation & Mapping
 - Leaflet.js, Google Maps APIs
 
-### 💳 Integrations & APIs
-- Stripe (Payments)  
-- Cloudinary (Media Storage)  
-- Nodemailer (Email Service)  
-- Twilio (SMS Service)
+### 🔌 APIs & Integrations
+- Stripe (Payments), Cloudinary (Media Storage), Nodemailer (Email Services), Twilio (SMS)  
+- SERP API, GoHighLevel, Google Maps API
+
+### 🤖 AI, Data & Automation
+- Generative AI, LLMs, RAG (Retrieval-Augmented Generation)  
+- Web Scraping & Automation using Selenium and BeautifulSoup  
+- Data Analysis using SQL, NumPy, Pandas
+
+### 📊 Mathematics for AI/ML
+- Linear Algebra, Calculus, Statistics & Probability, Numerical Computing
 
 ---
 
